@@ -132,7 +132,7 @@ return realm
 
 =head1 AUTHOR
 
-Hypo Lin, C<< <hypo.lin at gmail.com> >>
+Hypo Lin, C<< <hlin at cpan.org> >>
 
 =head1 BUGS
 
