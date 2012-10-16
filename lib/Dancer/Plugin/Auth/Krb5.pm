@@ -98,7 +98,7 @@ reference L<Dancer::Session> for 'SessionEngine'
 
     use Dancer::Plugin::Auth::Krb5;
 
-    my $auth = krb5_auth(params->{'name'}, params->{'pass'});
+    my $auth = krb5_auth($username, $password);
 
 =head2 user
 

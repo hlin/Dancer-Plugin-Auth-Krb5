@@ -39,7 +39,7 @@ reference [Dancer::Session](http://search.cpan.org/perldoc?Dancer::Session) for 
 
     use Dancer::Plugin::Auth::Krb5;
 
-    my $auth = krb5_auth(params->{'name'}, params->{'pass'});
+    my $auth = krb5_auth($username, $password);
 
 ## user
 
