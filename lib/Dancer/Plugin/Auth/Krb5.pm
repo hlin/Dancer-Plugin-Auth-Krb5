@@ -106,12 +106,6 @@ reference L<Dancer::Session> for 'SessionEngine'
 
 return username
 
-=head2 user
-
-    $auth->user;
-
-return username
-
 =cut
 
 =head2 errors

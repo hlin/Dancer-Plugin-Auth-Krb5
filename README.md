@@ -47,12 +47,6 @@ reference [Dancer::Session](http://search.cpan.org/perldoc?Dancer::Session) for 
 
 return username
 
-## user
-
-    $auth->user;
-
-return username
-
 ## errors
 
     $auth->errors;
