@@ -4,7 +4,7 @@ Dancer::Plugin::Auth::Krb5 - kerberos authentication for Dancer web apps
 
 # VERSION
 
-Version 0.01
+Version 0.02
 
 #INSTALLATION
 

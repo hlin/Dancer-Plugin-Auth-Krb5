@@ -1,6 +1,6 @@
 package Dancer::Plugin::Auth::Krb5;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use 5.006;
 use strict;
@@ -70,7 +70,7 @@ Dancer::Plugin::Auth::Krb5 - kerberos authentication for Dancer web apps
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
